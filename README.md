@@ -11,7 +11,7 @@ The dataset provides valuable insights into the housing market, allowing stakeho
 The modeling process involves preprocessing the data, including handling missing values, encoding categorical variables, and feature engineering. We then split the data into training and testing sets and build a multiple linear regression model to predict house prices. The model utilizes various features to make predictions and is evaluated using metrics such as R-squared to assess its performance.
 
 ## Regression Results
-The final model achieved a training R-squared score of approximately 0.65 and a testing R-squared score of about 0.63. These scores indicate decent predictive performance, suggesting that the model captures a significant portion of the variance in house prices. 
+The final model achieved a training R-squared score of approximately 0.676 and a testing R-squared score of about 0.63. These scores indicate decent predictive performance, suggesting that the model captures a significant portion of the variance in house prices. 
 
 The model's coefficients provide insights into the relative importance of different features in determining house prices, which can be valuable for stakeholders in the real estate industry.
 
